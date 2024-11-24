@@ -16,7 +16,7 @@ website:
         href: https://github.com/MicheleCarlin/DACSS_604_Assignment4
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2024, Michele Carlin"
+    left: "&copy; Copyright 2023, Michele Carlin"
 
 format:
   html:
