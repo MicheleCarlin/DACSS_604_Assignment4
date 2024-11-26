@@ -4,6 +4,12 @@ title: "Projects"
 
 ## Project 1
 
+<a href="files/MicheleCarlin_hw5.html" target="_blank">DACSS-601 Homework 5</a>
+
 ## Project 2
 
-## Project 3
+[DACSS-601 Final Project](Project2/MicheleCarlin_FinalProject.html)
+
+## Resume
+
+<a href="files/Resume.pdf" target="_blank">Resume</a>

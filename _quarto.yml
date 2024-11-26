@@ -3,15 +3,13 @@ project:
   output-dir: docs
   
 website:
-  title: "Michele Carlin's Website"
+  title: "Michele Carlin"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - projects.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
       - icon: github
         href: https://github.com/MicheleCarlin/DACSS_604_Assignment4
   page-footer:
@@ -21,7 +19,11 @@ website:
 format:
   html:
     theme: cerulean
-    toc: true
+    toc: false
+    anchor-sections: false
 
 editor: source
 
+#remember to inlude the following lines to include all files in the `files/` folder that you want to link to.
+resources: 
+  - "files/**"
