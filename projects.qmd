@@ -8,8 +8,8 @@ title: "Projects"
 
 ## Project 2
 
-<a href="files/Storyboard.html" target="_blank">DACSS-690V Storyboard</a>
+[DACSS-601 Final Project](Project2/MicheleCarlin_FinalProject.html)
 
 ## Project 3
 
-[DACSS-601 Final Project](Project2/MicheleCarlin_FinalProject.html)
+<a href="files/Storyboard.html" target="_blank">DACSS-690V Storyboard</a>
