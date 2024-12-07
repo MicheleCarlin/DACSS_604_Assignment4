@@ -2,30 +2,30 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "List of Recent Projects",
     "section": "",
-    "text": "DACSS-601 Homework 5 This is a link to a standalone html file which contains my DACSS-601 homework 5 data and visualizations. For this assignment, I used the “Airbnb rentals in NYC” dataset to practice reading in a csv file, mutating variables, and creating bar charts."
+    "text": "DACSS-601 Homework 5 For this assignment, I used the “Airbnb rentals in NYC” dataset to practice reading in a csv file, mutating variables, and creating bar charts."
   },
   {
     "objectID": "projects.html#project-1",
     "href": "projects.html#project-1",
-    "title": "Projects",
+    "title": "List of Recent Projects",
     "section": "",
-    "text": "DACSS-601 Homework 5 This is a link to a standalone html file which contains my DACSS-601 homework 5 data and visualizations. For this assignment, I used the “Airbnb rentals in NYC” dataset to practice reading in a csv file, mutating variables, and creating bar charts."
+    "text": "DACSS-601 Homework 5 For this assignment, I used the “Airbnb rentals in NYC” dataset to practice reading in a csv file, mutating variables, and creating bar charts."
   },
   {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
-    "title": "Projects",
+    "title": "List of Recent Projects",
     "section": "Project 2",
-    "text": "Project 2\nDACSS-601 Final Project This is a link to my DACSS-601 final project. For this project I used data from my full-time job at UMass Chan Medical School. The dataset contains clerkship grades for the 3rd year medical students and I look at how comparable the grades were across years, from location to location, and between gender and ethnic groups. For my DACSS-604 final project, I will be moving this information into an interactive dashboard."
+    "text": "Project 2\nDACSS-601 Final Project For this project I used data from my full-time job at UMass Chan Medical School. The dataset contains clerkship grades for the 3rd year medical students and I look at how comparable the grades were across years, from location to location, and between gender and ethnic groups. For my DACSS-604 final project, I will be moving this information into an interactive dashboard."
   },
   {
     "objectID": "projects.html#project-3",
     "href": "projects.html#project-3",
-    "title": "Projects",
+    "title": "List of Recent Projects",
     "section": "Project 3",
-    "text": "Project 3\nDACSS-603 Final Project- Sample Dashboard The sample dashboard was created using the data from my DACSS-603 final project. For this project I was investigating whether certain factors were better than others at predicting successful completion of a treatment plan."
+    "text": "Project 3\nDACSS-603 Final Project- Sample Dashboard This sample dashboard was created using the data from my DACSS-603 final project. For this project I was investigating whether certain factors (e.g., source of referral, marital status, gender, etc.) were better than others at predicting successful completion of a treatment plan."
   },
   {
     "objectID": "index.html",
