@@ -15,4 +15,4 @@ For this project I used data from my full-time job at UMass Chan Medical School.
 ## Project 3
 
 <a href="files/Sample_Dashboard.html" target="_blank">DACSS-603 Final Project- Sample Dashboard</a><br>
-This sample dashboard was created using the data from my DACSS-603 final project. For this project I was investigating whether certain factors were better than others at predicting successful completion of a treatment plan.
+This sample dashboard was created using the data from my DACSS-603 final project. For this project I was investigating whether certain factors (e.g., source of referral, marital status, gender, etc.) were better than others at predicting successful completion of a treatment plan.
