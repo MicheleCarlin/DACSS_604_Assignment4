@@ -4,12 +4,15 @@ title: "Projects"
 
 ## Project 1
 
-<a href="files/MicheleCarlin_hw5.html" target="_blank">DACSS-601 Homework 5</a>
+<a href="files/MicheleCarlin_hw5.html" target="_blank">DACSS-601 Homework 5</a><br>
+For this assignment, I used the "Airbnb rentals in NYC" dataset to practice reading in a csv file, mutating variables, and creating bar charts.
 
 ## Project 2
 
-[DACSS-601 Final Project](Project2/MicheleCarlin_FinalProject.html)
+[DACSS-601 Final Project](Project2/MicheleCarlin_FinalProject.html)<br>
+For this project I used data from my full-time job at UMass Chan Medical School. The dataset contains clerkship grades for the 3rd year medical students and I look at how comparable the grades were across years, from location to location, and between gender and ethnic groups. For my DACSS-604 final project, I will be moving this information into an interactive dashboard. 
 
 ## Project 3
 
-<a href="files/Sample_Dashboard.html" target="_blank">DACSS-601 Final Project- Sample Dashboard</a>
+<a href="files/Sample_Dashboard.html" target="_blank">DACSS-603 Final Project- Sample Dashboard</a><br>
+This sample dashboard was created using the data from my DACSS-603 final project. For this project I was investigating whether certain factors were better than others at predicting successful completion of a treatment plan.

@@ -4,35 +4,35 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "DACSS-601 Homework 5"
+    "text": "DACSS-601 Homework 5 This is a link to a standalone html file which contains my DACSS-601 homework 5 data and visualizations. For this assignment, I used the “Airbnb rentals in NYC” dataset to practice reading in a csv file, mutating variables, and creating bar charts."
   },
   {
     "objectID": "projects.html#project-1",
     "href": "projects.html#project-1",
     "title": "Projects",
     "section": "",
-    "text": "DACSS-601 Homework 5"
+    "text": "DACSS-601 Homework 5 This is a link to a standalone html file which contains my DACSS-601 homework 5 data and visualizations. For this assignment, I used the “Airbnb rentals in NYC” dataset to practice reading in a csv file, mutating variables, and creating bar charts."
   },
   {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
     "section": "Project 2",
-    "text": "Project 2\nDACSS-601 Final Project"
+    "text": "Project 2\nDACSS-601 Final Project This is a link to my DACSS-601 final project. For this project I used data from my full-time job at UMass Chan Medical School. The dataset contains clerkship grades for the 3rd year medical students and I look at how comparable the grades were across years, from location to location, and between gender and ethnic groups. For my DACSS-604 final project, I will be moving this information into an interactive dashboard."
   },
   {
     "objectID": "projects.html#project-3",
     "href": "projects.html#project-3",
     "title": "Projects",
     "section": "Project 3",
-    "text": "Project 3\nDACSS-601 Final Project- Sample Dashboard"
+    "text": "Project 3\nDACSS-603 Final Project- Sample Dashboard The sample dashboard was created using the data from my DACSS-603 final project. For this project I was investigating whether certain factors were better than others at predicting successful completion of a treatment plan."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "My short-term goal is to complete the DACSS program this December, as I know the research design and statistical knowledge I have gained will greatly assist me in furthering my career at UMass Chan.\n\n\n\nFitchburg State University BS in Psychology, 1998\n\n\n\nI have been working at UMass Chan Medical School for the past 25 years in the Office of Institutional Research, Evaluation, and Assessment (IREA).\nWe oversee the creation, distribution, and reporting of student program evaluations, the scoring of medical and nursing school examinations, and we report out on 90+ institutional research (IR) surveys to ensure compliance with the UMass President’s Office and other external regulatory agencies which involves the gathering and analyzing of data for comparative and benchmark purposes.\n\n\n\nSample PDF in place of resume\nThanks for checking out my web site!"
+    "text": "My short-term goal is to complete the DACSS program this December, as I know the research design and statistical knowledge I have gained will greatly assist me in furthering my career at UMass Chan.\n\n\n\nFitchburg State University, BS in Psychology (1998)\n\n\n\nI have been working at UMass Chan Medical School for the past 25 years in the Office of Institutional Research, Evaluation, and Assessment (IREA).\nWe oversee the creation, distribution, and reporting of student program evaluations, the scoring of medical and nursing school examinations, and we report out on 90+ institutional research (IR) surveys to ensure compliance with the UMass President’s Office and other external regulatory agencies which involves the gathering and analyzing of data for comparative and benchmark purposes. In addition, we collaborate with faculty members and other academic leaders on multiple research projects that investigate for example, the effectiveness of curricular innovations, gender and racial biases in the grading of medical school students, factors that best predict success in a variety of different areas (e.g., passing national board exams, matching to competitive residency programs, etc.).\n\n\n\nSample PDF in place of resume\nThanks for checking out my web site!"
   },
   {
     "objectID": "index.html#goals",
@@ -46,14 +46,14 @@
     "href": "index.html#education",
     "title": "About Me",
     "section": "",
-    "text": "Fitchburg State University BS in Psychology, 1998"
+    "text": "Fitchburg State University, BS in Psychology (1998)"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "About Me",
     "section": "",
-    "text": "I have been working at UMass Chan Medical School for the past 25 years in the Office of Institutional Research, Evaluation, and Assessment (IREA).\nWe oversee the creation, distribution, and reporting of student program evaluations, the scoring of medical and nursing school examinations, and we report out on 90+ institutional research (IR) surveys to ensure compliance with the UMass President’s Office and other external regulatory agencies which involves the gathering and analyzing of data for comparative and benchmark purposes."
+    "text": "I have been working at UMass Chan Medical School for the past 25 years in the Office of Institutional Research, Evaluation, and Assessment (IREA).\nWe oversee the creation, distribution, and reporting of student program evaluations, the scoring of medical and nursing school examinations, and we report out on 90+ institutional research (IR) surveys to ensure compliance with the UMass President’s Office and other external regulatory agencies which involves the gathering and analyzing of data for comparative and benchmark purposes. In addition, we collaborate with faculty members and other academic leaders on multiple research projects that investigate for example, the effectiveness of curricular innovations, gender and racial biases in the grading of medical school students, factors that best predict success in a variety of different areas (e.g., passing national board exams, matching to competitive residency programs, etc.)."
   },
   {
     "objectID": "index.html#resume",
